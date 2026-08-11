@@ -4,4 +4,8 @@ github 웹에서 추가한 내용입니다
 
 오늘의 학습 목표 작업자 A-B의 Git 협업 및 merge 충돌 해결
 
+## Fetch, Merge 및 충돌 해결 시퀀스
+
+![작업자 A·B의 Fetch, Merge 및 충돌 해결 시퀀스](docs/images/fetch-merge-conflict-sequence.png)
+
 로컬 컴퓨터에서 추가한 내용입니다.
