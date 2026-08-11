@@ -9,3 +9,9 @@ github 웹에서 추가한 내용입니다
 ![작업자 A·B의 Fetch, Merge 및 충돌 해결 시퀀스](docs/images/fetch-merge-conflict-sequence.png)
 
 로컬 컴퓨터에서 추가한 내용입니다.
+
+
+작업자 A
+작업자 B
+병합
+
